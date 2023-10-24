@@ -1,0 +1,1 @@
+Như ở bài giới thiệu về loạt bài Kotlin, mình đã có nói là chúng ta sẽ sử dụng IntelliJ IDEA như 1 IDE chính để code các demo. Hôm nay mình sẽ hướng dẫn các bạn cài đặt và sử dụng IDE này 1 cách cơ bản. Qua bài viết này, các bạn sẽ được trang bị những kỹ năng sử dụng IDE. Những kỹ năng đủ để chúng ta sử dụng trong suốt loạt bài hướng dẫn Kotlin của mình.

@@ -1,0 +1,1 @@
+tạo file text có sẵn dữ liệu văn bản (data có thể là đề bài này)

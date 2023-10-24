@@ -1,0 +1,1 @@
+file convert thành mảng string với mỗi từ là 1 phần tử
